@@ -1,0 +1,23 @@
+.container {
+    border: 1px solid gray;
+    max-width: 300px;
+}
+
+.image {
+    width: 286px;
+    height: 180px;
+}
+
+.container-informacion {
+
+    padding: 16px;
+    text-align: justify;
+}
+
+.boton {
+    background-color: blue;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+}
