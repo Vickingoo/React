@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.formSpacing {
+    margin-bottom: 32px;
+}
+
+.field {
+    padding: 8px 4px;
+    border: 1px solid #b2b2b2;
+    border-radius: 4px;
+}
+
+.label {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.button {
+    font-size: 16px;
+    padding: 12px 6px;
+    border-radius: 4px;
+    background-color: darkcyan;
+    border: none;
+    color: white;
+    font-weight: bold;
+}

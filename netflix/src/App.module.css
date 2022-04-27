@@ -1,0 +1,17 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.formContainer {
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 32px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 15px 5px rgba(150,150,150,0.10);
+    border: 1px solid #b2b2b2
+}
